@@ -1,0 +1,13 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --silent=false"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "jest": "^29.3.1"
+  }
+}
